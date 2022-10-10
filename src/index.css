@@ -1,0 +1,13 @@
+body {
+  font-family: Lato;
+}
+
+input {
+  height: 40px;
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+button:hover {
+  cursor: pointer;
+}
